@@ -7,6 +7,7 @@
 	margin: 200px 0 0 250px;
 }
 .borderimg{
+	float: left;
 	border:2px solid;
 	padding: 50px;
 }
@@ -16,6 +17,10 @@
 	border: 2px solid;
 	margin: 0 200px 0 0;
 	
+}
+
+.ccc{
+	 margin-left: 50px;
 }
 .floatright{
 	float:right;
@@ -29,3 +34,26 @@
 	width:50%;
 		
 }
+.sobremim{
+	border: 2px solid;
+	margin-right: 50px;
+	margin-left: 700px;
+	font-size: 15px;
+	padding: 10px;
+}
+.foto_perfil{
+	 float: left;
+	 margin-left: 50px;
+	 border-style: solid;
+}
+.borderimgperfil{
+	float:left;
+	border:2px solid;
+	padding: 5px;
+	margin-left: 50px;
+}
+.contato{
+	margin: 200px 50px 50px 700px;
+}
+
+
