@@ -1,0 +1,31 @@
+.tituloHome{
+	font-size: 800%;
+	text-align:center;
+}
+.imageHome{
+	width: 200%;
+	margin: 200px 0 0 250px;
+}
+.borderimg{
+	border:2px solid;
+	padding: 50px;
+}
+.imageprojeto{
+	width:300px;
+	padding:20px;
+	border: 2px solid;
+	margin: 0 200px 0 0;
+	
+}
+.floatright{
+	float:right;
+	margin-right: 200px;
+}
+.conteudo{
+	margin: -400px 200px 100px 0; 
+	float:right;
+}
+.texto{
+	width:50%;
+		
+}
