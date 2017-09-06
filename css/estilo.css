@@ -121,5 +121,6 @@ background-color: #F38C22;
 }
 
 body{
-background-image: url("cores.jpg");
+	background-image: url("cores.jpg");
+	background-color: #CDCCE0;
 }
