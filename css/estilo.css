@@ -115,3 +115,11 @@
     -moz-border-radius: 6px 0 6px 6px;
     border-radius: 6px 0 6px 6px;
 }
+
+.nav_bar{
+background-color: #F38C22;
+}
+
+body{
+background-image: url("cores.jpg");
+}
